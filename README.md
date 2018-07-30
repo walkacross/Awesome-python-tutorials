@@ -15,6 +15,8 @@ clean and up-to-date tutorials
 
 [understand yield and yield from in Genrator](http://simeonvisser.com/posts/python-3-using-yield-from-in-generators-part-1.html):In Python a generator can be used to let a function return a list of values without having to store them all at once in memory.
 
+## advanced
+[Asynchronous programming in Python](http://python.jobbole.com/88291/)
 ## oop
 [understand super usage](http://python.jobbole.com/86787/): how to use super properly
 ## design pattern
