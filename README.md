@@ -10,6 +10,7 @@ clean and up-to-date tutorials
 
 ## intermedia
 [Iterators and Iterables](https://www.agiliq.com/blog/2017/10/iterators-and-iterables/): Iterables are objects that implement the iterator protocol
+[Generator](https://www.agiliq.com/blog/2017/11/how-python-generators-are-similar-iterators/):Generators are functions having an yield keyword. Any function which has “yield” in it is a generator. Generators require lesser lines of code than solving the problem with iterators and iterables.
 ## oop
 [understand super usage](http://python.jobbole.com/86787/): how to use super properly
 ## design pattern
