@@ -9,7 +9,7 @@ clean and up-to-date tutorials
 [import_in_python](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html): what does import do in python
 
 ## intermedia
-
+[Iterators and Iterables](https://www.agiliq.com/blog/2017/10/iterators-and-iterables/): Iterables are objects that implement the iterator protocol
 ## oop
 [understand super usage](http://python.jobbole.com/86787/): how to use super properly
 ## design pattern
