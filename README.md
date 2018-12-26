@@ -15,6 +15,7 @@ clean and up-to-date tutorials
 
 [understand yield and yield from in Genrator](http://simeonvisser.com/posts/python-3-using-yield-from-in-generators-part-1.html):In Python a generator can be used to let a function return a list of values without having to store them all at once in memory.
 
+[python exceptions](https://realpython.com/python-exceptions/): How to catch and handle exceptions in python to avoid a program to crash.
 ## advanced
 [Asynchronous programming in Python](http://python.jobbole.com/88291/)
 ## oop
